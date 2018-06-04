@@ -1,5 +1,5 @@
 
-#messages section:nth-child(odd) {
+#messages sectioni:nth-child(odd) {
     background-color: grey;
     color: white;
     border-radius: 8%;
