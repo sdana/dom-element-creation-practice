@@ -1,0 +1,11 @@
+
+#messages section:nth-child(odd) {
+    background-color: grey;
+    color: white;
+    border-radius: 8%;
+}
+
+#messages {
+    width: 400px;
+    border: 1px black solid;
+}
